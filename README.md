@@ -108,7 +108,7 @@ __init__.py
 
 ---
 
-# Быстрый старт
+## Быстрый старт
 
 ### 1. Клонировать репозиторий
 
@@ -170,7 +170,7 @@ API документация: http://localhost:8000/docs
 ---
 
 
-# Как это работает
+## Как это работает
 
 ### Этап 1: Загрузка документов (Ingestion)
 1. Скрипт сканирует папку data/ и находит все PDF
@@ -238,7 +238,7 @@ python main.py
 ---
 
 ---
-# Частые проблемы и их решение
+## Частые проблемы и их решение
 
 ## 1. Ошибка: "No module named 'fastapi'"
 Решение:
@@ -299,7 +299,7 @@ GROQ_MODEL=llama-3.1-8b-instant
 ---
 
 
-# Скриншоты
+## Скриншоты
 <img width="789" height="722" alt="Screenshot 2026-07-09 020816" src="https://github.com/user-attachments/assets/e47fe924-80c8-4446-9b7f-f586c3fcdd9b" />
 <img width="824" height="593" alt="Screenshot 2026-07-09 020734" src="https://github.com/user-attachments/assets/b91cc5ad-af14-4ec4-8ea0-0c46beecaf32" />
 <img width="891" height="733" alt="Screenshot 2026-07-09 020709" src="https://github.com/user-attachments/assets/ff8d49fa-a6fe-4aec-b74a-70f5b5a3dc36" />
