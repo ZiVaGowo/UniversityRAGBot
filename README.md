@@ -303,5 +303,3 @@ GROQ_MODEL=llama-3.1-8b-instant
 <img width="891" height="733" alt="Screenshot 2026-07-09 020709" src="https://github.com/user-attachments/assets/ff8d49fa-a6fe-4aec-b74a-70f5b5a3dc36" />
 
 ----
-
-----
