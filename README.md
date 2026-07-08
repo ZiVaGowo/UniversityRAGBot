@@ -103,9 +103,6 @@ __init__.py
 
 |--README.md
 
-
----
-
 ---
 
 ## Быстрый старт
@@ -165,10 +162,6 @@ API документация: http://localhost:8000/docs
 Интерфейс: http://localhost:8501
 
 ---
-
-
----
-
 
 ## Как это работает
 
@@ -236,8 +229,6 @@ python main.py
 ```
 
 ---
-
----
 ## Частые проблемы и их решение
 
 ## 1. Ошибка: "No module named 'fastapi'"
@@ -267,7 +258,6 @@ GROQ_MODEL=llama-3.1-8b-instant
 
 ---
 
---- 
 
 # Примеры вопросов(были взяты во время проверки)
 
@@ -301,7 +291,6 @@ GROQ_MODEL=llama-3.1-8b-instant
 
 ---
 
----
 
 ## Скриншоты
 <img width="789" height="722" alt="Screenshot 2026-07-09 020816" src="https://github.com/user-attachments/assets/e47fe924-80c8-4446-9b7f-f586c3fcdd9b" />
