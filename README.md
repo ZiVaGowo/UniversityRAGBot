@@ -291,7 +291,7 @@ GROQ_MODEL=llama-3.1-8b-instant
 
 ---
 
-## Скриншоты
+# Скриншоты
 
 <img width="789" height="722" alt="Screenshot 2026-07-09 020816" src="https://github.com/user-attachments/assets/e47fe924-80c8-4446-9b7f-f586c3fcdd9b" />
 <img width="824" height="593" alt="Screenshot 2026-07-09 020734" src="https://github.com/user-attachments/assets/b91cc5ad-af14-4ec4-8ea0-0c46beecaf32" />
