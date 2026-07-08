@@ -265,6 +265,10 @@ GROQ_MODEL=llama-3.1-8b-instant
 ```
 ### ***Или использовать: llama-3.1-70b-versatile (ну или более свежую версию)***
 
+---
+
+--- 
+
 # Примеры вопросов(были взяты во время проверки)
 
 Для договора проживания:
@@ -304,3 +308,4 @@ GROQ_MODEL=llama-3.1-8b-instant
 <img width="824" height="593" alt="Screenshot 2026-07-09 020734" src="https://github.com/user-attachments/assets/b91cc5ad-af14-4ec4-8ea0-0c46beecaf32" />
 <img width="891" height="733" alt="Screenshot 2026-07-09 020709" src="https://github.com/user-attachments/assets/ff8d49fa-a6fe-4aec-b74a-70f5b5a3dc36" />
 
+---
